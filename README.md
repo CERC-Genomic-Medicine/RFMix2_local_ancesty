@@ -1,6 +1,6 @@
 # Prerequisites
 
-1. Download and install the RFMix2
+1. Download and install the RFMix2 from `https://github.com/slowkoni/rfmix`.
 2.  Download genetic maps `zip` file for build **GRCh38** from `https://bochet.gcc.biostat.washington.edu/beagle/genetic_maps/` into `Genetic_maps` directory, unzip and re-format:
 ```
 cd Genetic_maps
