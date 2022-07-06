@@ -1,4 +1,7 @@
-# Prerequisites
+## About
+This is a Nextflow pipeline built around the RFMix2 software for the local genetic ancestry estimation using phased data and reference panel.
+
+## Prerequisites
 
 1. Download and install the RFMix2 from `https://github.com/slowkoni/rfmix`.
 2. Clone this repository:
